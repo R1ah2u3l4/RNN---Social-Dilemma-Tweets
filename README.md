@@ -1,4 +1,5 @@
 Social_Dilemma_Tweets_by_RNN
+
 Overview
 The Social Dilemma Tweet RNN Project is an experimental project that utilizes Recurrent Neural Networks (RNNs) to analyze and generate tweets related to social dilemmas. Inspired by the increasing impact of social media on public opinion and the ethical challenges it presents, this project aims to explore the potential of machine learning in understanding and simulating the discourse surrounding social dilemmas.
 
